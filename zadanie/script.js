@@ -6,4 +6,8 @@ function MyButton() {
   );
 }
 
+### tworzenie wartości do wykorzystania na stronie:
 
+const uzytkownik = {
+  imie: 'Natalia',
+};
