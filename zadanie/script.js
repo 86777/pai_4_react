@@ -11,3 +11,9 @@ function MyButton() {
 const uzytkownik = {
   imie: 'Natalia',
 };
+
+function Wyswietl() {
+  return (
+    <span>uzytkownik.imie</span>
+  );
+}
